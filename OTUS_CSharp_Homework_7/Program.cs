@@ -33,5 +33,5 @@ sw.Restart();
 Console.WriteLine("For-Loop Fibonacci 5\t" + fibonacciForLoop(5));
 Console.WriteLine("For-Loop Fibonacci 10\t" + fibonacciForLoop(10));
 Console.WriteLine("For-Loop Fibonacci 20\t" + fibonacciForLoop(20));
-Console.WriteLine("Elapsed via For-Loop: " + sw.Elapsed);
+Console.WriteLine("Elapsed via For-Loop: " + sw.Elapsed); // For-Loop wins! :)
 sw.Stop();
